@@ -1,0 +1,8 @@
+li {
+    list-style: none;
+    margin: 4px;
+}
+
+.nav-header {
+    background-color: pink;
+}
